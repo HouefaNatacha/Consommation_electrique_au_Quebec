@@ -9,7 +9,7 @@ Dans ce répertoire, vous trouverez 1 fichier IPYNB présentant les résultats d
 Dans ce travail, nous allons croisé les données de consommation d’électricité au Québec par secteur d’activité avec les données climatiques pour mette en évidence des tendances ou toute information pouvant contribuer à une meilleure gestion des ressources énergétiques.
 # Méthodologie
 #### • Collecte de données :
-Les données ont été collectées à partir de sources publiques
+Les données ont été collectées à partir de sources publiques  
 Données de consommation électrique : https://www.hydroquebec.com/documents-donnees/donnees-ouvertes/historique-consommation-secteur-activite/  
 Données climatiques : https://changements-climatiques.canada.ca/donnees-climatiques/#/sommaires-climatiques-mensuels  
 Données de géolocalisation des régions administratives : https://www.donneesquebec.ca/recherche/dataset/decoupages-administratifs  
