@@ -43,4 +43,4 @@ Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :
 •  Procéder une analyse prédictive de la consommation électrique de 2024 et 2025 en croisant les données de consommations aux facteurs identifiés  
 
 # Annexe
-• Les données utilisées dans ce projet ont été obtenues via des sources publiques.
+Les données utilisées dans ce projet ont été obtenues via des sources publiques.
