@@ -36,6 +36,7 @@ Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :
 - Secteur Commercial : Montréal et Montérégie  
 - Secteur Institutionnel : Montréal et Montérégie   
 - Secteur Agricole : Montérégie et Chaudière-Appalaches
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/80a15492-4ecf-4555-bdf3-ee9b3f9d5f72)
 
 # Recommandation 
 •  Faire une analyse plus approfondies des secteurs d'activité afin d'identifier les facteurs entrainant la baisse ou la hausse de la consommation électrique.  
