@@ -3,7 +3,7 @@
 # Aperçu du projet
 Ce répertoire présente les résultats du projet d'analyse de la consommation énergétique dans la province du Québec. 
 L'objectif de ce projet est décrire la consommation énergétique par Région administrative et par Secteur d'Activité durant la période allant de janvier 2016 à décembre 2023.
-# Contenus
+# Contenu
 Dans ce répertoire, vous trouverez 1 fichier IPYNB présentant les résultats de cette analyse, de la collecte de donnée à l'analyse descriptive.
 # Introduction
 Dans ce travail, nous allons croisé les données de consommation d’électricité au Québec par secteur d’activité avec les données climatiques pour mette en évidence des tendances ou toute information pouvant contribuer à une meilleure gestion des ressources énergétiques.
