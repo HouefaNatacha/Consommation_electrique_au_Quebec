@@ -21,7 +21,8 @@ Gaspésie--Îles-de-la-Madeleine, Lanaudière, Laurentides, Laval, Mauricie, Mon
 - Utilisation de diagramme circulaire, boite à moustache, graphique linéaire et histogramme pour réprésenter la consommation suivant le secteur d'activité et l'année 
 - Utilisation de Folium pour cartographier les régions administratives suivant leur consommation électrique
 # Conclusion
-Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :
+Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :  
+
 • Le secteur ayant la plus forte consommation est le secteur Résidentiel, suivi du secteur Industriel, Commercial, Institutionnel et enfin agricole.  
 ![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/54fca11a-a580-480d-8b65-1949f36c64fd)
 
