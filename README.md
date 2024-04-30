@@ -39,8 +39,8 @@ Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :
 - Secteur Agricole : Montérégie et Chaudière-Appalaches
 
 # Recommandation 
-•  Faire une analyse plus approfondies des secteurs d'activité afin d'identifier les facteurs entrainant la baisse ou la hausse de la consommation électrique
-•  Procéder une analyse prédictive de la consommation électrique de 2024 et 2025 en croisant les données de consommations aux facteurs identifiés
+•  Faire une analyse plus approfondies des secteurs d'activité afin d'identifier les facteurs entrainant la baisse ou la hausse de la consommation électrique  
+•  Procéder une analyse prédictive de la consommation électrique de 2024 et 2025 en croisant les données de consommations aux facteurs identifiés  
 
 # Annexe
 • Les données utilisées dans ce projet ont été obtenues via des sources publiques.
