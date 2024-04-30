@@ -23,12 +23,19 @@ Gaspésie--Îles-de-la-Madeleine, Lanaudière, Laurentides, Laval, Mauricie, Mon
 # Conclusion
 Sur la base de l'analyse, les conclusions suivantes peuvent être tirées :
 • Le secteur ayant la plus forte consommation est le secteur Résidentiel, suivi du secteur Industriel, Commercial, Institutionnel et enfin agricole.
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/54fca11a-a580-480d-8b65-1949f36c64fd)
+
+• La consommation induite par le secteur résidentiel est telle que, de janvier 2016 à décembre 2023, la consommation moyenne de ce secteur (soit 5.910387e+10 kWh) a été supérieure au maximum de ce que le secteur industriel a consommé (soit 5.731319e+10 kWh).
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/90e3c2cb-1a23-4159-86ab-a4b26cbc6249)
 
 • Par année, la consommation électrique dans le secteur résidentiel suit une variation saisonnière : très forte en hiver (décembre à mars), décroit durant le printemps et l'été (en particulier de mai à Septembre) puis recommence à croitre durant l'automne pour atteindre un nouveau pic en hiver.
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/06e2b31c-f21b-4d7e-9190-d9cb8ca6632b)
 
 • Les années 2018, 2019 et 2022 présentent des pics de forte consommation et sont marquées par des températures minimales moyennes les plus basses entre 2016 et 2023 soient respectivement -12,54° , -12,14° et -12,19°
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/38134904-58a4-46d5-b30c-bb987b36e62f)
 
 • Tout secteur confondu, sur la période de 2016 à 2023, les régions ayant le plus consommé d'électricité sont Montréal, Montérégie, Capitale-Nationale et Côte-Nord avec des consommations dépassant les 100 milliard de kWh.
+![image](https://github.com/HouefaNatacha/Hydro-Quebec/assets/153472526/3e259211-cfa9-42ef-a4a7-28e17a50230d)
 
 •  Sur la période de 2016 à 2023, les régions administratives consommant le plus d'énergie sont :
 - Secteur Résidentiel : Montréal et Montérégie   
