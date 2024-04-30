@@ -10,9 +10,9 @@ Dans ce travail, nous allons croisé les données de consommation d’électrici
 # Méthodologie
 #### • Collecte de données :
 Les données ont été collectées à partir de sources publiques
-Données de consommation électrique : https://www.hydroquebec.com/documents-donnees/donnees-ouvertes/historique-consommation-secteur-activite/
-Données climatiques : https://changements-climatiques.canada.ca/donnees-climatiques/#/sommaires-climatiques-mensuels
-Données de géolocalisation des régions administratives : https://www.donneesquebec.ca/recherche/dataset/decoupages-administratifs
+Données de consommation électrique : https://www.hydroquebec.com/documents-donnees/donnees-ouvertes/historique-consommation-secteur-activite/  
+Données climatiques : https://changements-climatiques.canada.ca/donnees-climatiques/#/sommaires-climatiques-mensuels  
+Données de géolocalisation des régions administratives : https://www.donneesquebec.ca/recherche/dataset/decoupages-administratifs  
 #### • Analyse de données
 Analyse exploratoire des données 
 - Secteurs d'activité : Agricole, Commercial, Industriel, Institutionnel et Résidentiel
